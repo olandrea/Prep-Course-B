@@ -1,0 +1,9 @@
+Variables : Es un espacio que guardo para almacenar datos que voy a usar luego.
+Es como si agarro cajitas y voy guardando cosas que voy a precisar despues.
+Strings : Es un texto entre comillas. Todo lo que este entre comillas es un strings "123" tambien es un Strings.
+Booleans : Es una variable que solo puede tener dos valores true, o false.
+Undefined : Es cuando no existe, puede ser una variable que todavia no tiene un valor.
+Null : Es un elemento q existe pero no tiene todavia un valor.
+Operadores : Estos simbolos son para realizar operaciones matematicas, como suma, resta, multiplicación..
+
+
