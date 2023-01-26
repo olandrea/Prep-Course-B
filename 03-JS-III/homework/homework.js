@@ -64,6 +64,7 @@ function sumaArray(array){
   // Devuelve el resultado de sumar todos los elementos
   // de un arreglo de enteros dado
   // Tu código:
+  
  // var suma = 0;
  // var num = 0;
  // for ( let i = 0; i < array.length; i ++){
